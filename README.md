@@ -4,7 +4,7 @@
 
 ![](<https://miro.medium.com/v2/resize:fit:700/0*lhbz9vRWnbRl4xVS>)
 
-We will be deploying a .NET-based application. This is an everyday use case scenario used by several organizations. We will be using Jenkins as a CICD tool and deploying our application on a Docker Container and Kubernetes cluster. Hope this detailed blog is useful.
+Deploying a .NET-based application. Using Jenkins as a CICD tool and deploying our application on a Docker Container and Kubernetes cluster.
 
 This project shows the detailed metric i.e. CPU Performance of our instance where this project is launched.
 
