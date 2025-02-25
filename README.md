@@ -1,8 +1,6 @@
 # Real-Time DevSecOps Pipeline for a DotNet Web App
 
-## Below is the Application Source code for this project
-
-![](<https://miro.medium.com/v2/resize:fit:700/0*lhbz9vRWnbRl4xVS>)
+![image](https://github.com/user-attachments/assets/b11babfc-7363-4337-b464-49de106eafa2)
 
 Deploying a .NET-based application. Using Jenkins as a CICD tool and deploying our application on a Docker Container and Kubernetes cluster.
 
